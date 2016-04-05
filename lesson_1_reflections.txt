@@ -1,0 +1,30 @@
+viewing a diff between two versions of a file helped me a lot
+to find the typo that was in the file with significant less
+amount of time as compared with the time i would have used
+to look for the typo reading each and every single line 
+in the file.
+
+how could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+having access to the entire history would enable you  compare different versions of the file and help you see the mistakes u previously made
+ and therefore avoid them in future.
+
+ Manually choosing when to create a commit gives the programmer the advantage to create commits at any given time there is something to commit.
+
+ the disadvantage of manual creation of commit is tha t a programmer 
+ may forget to commit
+
+ why do you think some version control systems , like git, allow saving multiple files in one commit while others , like google docs, treat each separately?
+
+ git was designed to be used majorly by programmers
+
+ How can you use the commands git log and git diff to view the history of files? 
+
+ git log can show you all the changes that were made to different files whereas the git diff can show u the comparison of two commits showing the changes made. both what was added, removed and what remained unchanged
+
+ How might using version control make you more confident to make changes that could break something?
+ using version control gives u the confidence because one is aware that even if he/she breaks something in the code he can always revert the changes to a point in time where the code was working.
+
+ Now that you have your workspace set up, what do you want to try using Git for?
+
+ i want to use git to teach myself how to program and become a proffessional developer
