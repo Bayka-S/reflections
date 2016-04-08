@@ -4,3 +4,16 @@ when you initialize a repository a git repository is created. you need to do it 
 how is the staging area different from the working directory and the repository? what value do you think it offers?
 staging area is a temporary area where you put things before you commit in the working directory. repository contains everything. both the staging area and the working directory. staging area offers the value of being able to reflect on what u intend to commit before you actual commit
 
+How can you use the staging area to make sure you have one commit per logical change?
+by making sure you only commit each time u make a logical change
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+branches will help to organize the history by allowing us to go back to an instance in time and add maybe a feature or delete a feature
+
+How do the diagrams help you visualize the branch structure?
+the diagrams help understand the concept of parent branch
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do? The result of two branches is a one branch with parents from both branches from which it was merged. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually? Automatic merges has the advantage in that all the history of logs is stored
+
