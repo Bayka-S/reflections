@@ -8,3 +8,7 @@ Forks is a type of clone only available in github. clone is an exact copy of a f
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 the benifit is that you can update by fetch command to sync the local and remote later
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder? it would be very hard to collaborate with someone who is far from us and working on the same project. it would be hard to see changes they make on our projects before we accept them into our project
+
+
