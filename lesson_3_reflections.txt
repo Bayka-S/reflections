@@ -11,4 +11,6 @@ the benifit is that you can update by fetch command to sync the local and remote
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder? it would be very hard to collaborate with someone who is far from us and working on the same project. it would be hard to see changes they make on our projects before we accept them into our project
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?When you are doing experimental work you would want changes to be in a separate brach from the master. it gives the opportunity to revert to the previous work incase your experimental work dint work out as expected
+
 
